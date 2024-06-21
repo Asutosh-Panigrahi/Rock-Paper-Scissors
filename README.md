@@ -15,10 +15,10 @@ A score counter keeps track of the number of wins for both the player and the AI
 
 # Technical Details:
 
-*Programming Language:* Python
-*Libraries Used:* OpenCV, cvzone, NumPy
-*Hardware Requirements:* A computer with a webcam
-*Image Resources:* Custom images for AI moves and background
+> Programming Language: Python
+> Libraries Used: OpenCV, cvzone, Random
+> Hardware Requirements: A computer with a webcam
+> Image Resources: Custom images for AI moves and background
 
 # Setup:
 -> Ensure the required libraries are installed using pip: # "pip install opencv-python cvzone"
