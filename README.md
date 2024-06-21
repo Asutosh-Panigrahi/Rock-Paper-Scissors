@@ -14,16 +14,15 @@ This is an interactive game that uses computer vision to recognize hand gestures
 A score counter keeps track of the number of wins for both the player and the AI, with the game concluding when either side reaches a score of 3.
 
 # Technical Details:
-
-> Programming Language: Python
-> Libraries Used: OpenCV, cvzone, Random
-> Hardware Requirements: A computer with a webcam
-> Image Resources: Custom images for AI moves and background
+- Programming Language: Python
+- Libraries Used: OpenCV, cvzone, Random
+- Hardware Requirements: A computer with a webcam
+- Image Resources: Custom images for AI moves and background
 
 # Setup:
--> Ensure the required libraries are installed using pip: # "pip install opencv-python cvzone"
--> Connect a webcam to the computer.
--> Place the image resources in a folder named Resources.
+1. Ensure the required libraries are installed using pip: # "pip install opencv-python cvzone"
+2. Connect a webcam to the computer.
+3. Place the image resources in a folder named Resources.
 
 # Conclusion:
 This Rock Paper Scissors project showcases the integration of computer vision and gaming, offering a hands-on application of OpenCV and Python. It demonstrates how technology can create interactive and enjoyable user experiences, making it a valuable project for both learning and entertainment purposes.
